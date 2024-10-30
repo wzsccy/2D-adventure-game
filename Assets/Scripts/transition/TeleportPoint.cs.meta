@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 90d6871d09b781d45896d60851d8d26d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - loadEventSO: {fileID: 11400000, guid: fbf1f08b81118944483e25d95ef7f740, type: 2}
+  - sceneToGo: {fileID: 11400000, guid: 22a95378f0d388a449d45118d42c089f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

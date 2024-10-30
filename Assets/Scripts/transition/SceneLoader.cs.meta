@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 655efabe771a6d04c92121e6787f15ed
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerTrans: {instanceID: 0}
+  - LoadEventSO: {fileID: 11400000, guid: fbf1f08b81118944483e25d95ef7f740, type: 2}
+  - firstLoadScene: {fileID: 11400000, guid: 6045be44600b57445aaa9cbed25ea821, type: 2}
+  - currentLoadedScene: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

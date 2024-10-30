@@ -1,0 +1,399 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unity\u5DE5\u7A0B\\challenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|D:\\unity\u5DE5\u7A0B\\challenge\\assets\\scripts\\player\\playanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|D:\\unity\u5DE5\u7A0B\\challenge\\assets\\scripts\\player\\attackfinsh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\attackfinsh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|d:\\unity\u5DE5\u7A0B\\challenge\\assets\\scripts\\general\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|D:\\unity\u5DE5\u7A0B\\challenge\\assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|D:\\unity\u5DE5\u7A0B\\challenge\\assets\\scripts\\enemy\\boar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\boar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|D:\\unity\u5DE5\u7A0B\\challenge\\assets\\scripts\\enemy\\boarpatorlstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\boarpatorlstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|D:\\unity\u5DE5\u7A0B\\challenge\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|D:\\unity\u5DE5\u7A0B\\challenge\\assets\\scripts\\general\\physicscheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\general\\physicscheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|D:\\unity\u5DE5\u7A0B\\challenge\\assets\\scripts\\enemy\\boarchasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\boarchasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|D:\\unity\u5DE5\u7A0B\\challenge\\assets\\scripts\\transition\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\transition\\sceneloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|D:\\unity\u5DE5\u7A0B\\challenge\\assets\\scripts\\transition\\teleportpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\transition\\teleportpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|D:\\unity\u5DE5\u7A0B\\challenge\\assets\\scripts\\player\\sign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\sign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|D:\\unity\u5DE5\u7A0B\\challenge\\assets\\scripts\\ui\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|D:\\unity\u5DE5\u7A0B\\challenge\\assets\\scripts\\scriptableobject\\sceneloadeventso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobject\\sceneloadeventso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|D:\\unity\u5DE5\u7A0B\\challenge\\assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|D:\\unity\u5DE5\u7A0B\\challenge\\assets\\scripts\\audio\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audio\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|D:\\unity\u5DE5\u7A0B\\challenge\\assets\\scripts\\audio\\audiodefination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audio\\audiodefination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|D:\\unity\u5DE5\u7A0B\\challenge\\assets\\scripts\\transition\\inital load.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\transition\\inital load.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|D:\\unity\u5DE5\u7A0B\\challenge\\assets\\scripts\\scriptableobject\\floateventso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobject\\floateventso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|D:\\unity\u5DE5\u7A0B\\challenge\\assets\\scripts\\utillities\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utillities\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|D:\\unity\u5DE5\u7A0B\\challenge\\assets\\scripts\\transition\\teleportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\transition\\teleportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|D:\\unity\u5DE5\u7A0B\\challenge\\assets\\scripts\\ui\\fadecanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\fadecanvas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|D:\\unity\u5DE5\u7A0B\\challenge\\assets\\scripts\\ui\\playerstatbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E8CA3F-FF27-9049-79EC-B9FAF201DBD4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\playerstatbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AttackFinsh.cs",
+              "DocumentMoniker": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\player\\AttackFinsh.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\player\\AttackFinsh.cs",
+              "ToolTip": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\player\\AttackFinsh.cs*",
+              "RelativeToolTip": "Assets\\Scripts\\player\\AttackFinsh.cs*",
+              "ViewState": "AQIAABsAAAAAAAAAAAAIwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T12:45:11.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "playAnimation.cs",
+              "DocumentMoniker": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\player\\playAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\player\\playAnimation.cs",
+              "ToolTip": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\player\\playAnimation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\player\\playAnimation.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAIwCIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T12:38:02.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BoarPatorlState.cs",
+              "DocumentMoniker": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\Enemy\\BoarPatorlState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\BoarPatorlState.cs",
+              "ToolTip": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\Enemy\\BoarPatorlState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\BoarPatorlState.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T12:24:34.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BoarChaseState.cs",
+              "DocumentMoniker": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\Enemy\\BoarChaseState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\BoarChaseState.cs",
+              "ToolTip": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\Enemy\\BoarChaseState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\BoarChaseState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T12:24:31.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Boar.cs",
+              "DocumentMoniker": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\Enemy\\Boar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Boar.cs",
+              "ToolTip": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\Enemy\\Boar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Boar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T12:24:21.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ToolTip": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAkwBUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T12:22:55.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\General\\Character.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\Character.cs",
+              "ToolTip": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\General\\Character.cs*",
+              "RelativeToolTip": "Assets\\Scripts\\General\\Character.cs*",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAgwGkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T03:56:38.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SceneLoader.cs",
+              "DocumentMoniker": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\transition\\SceneLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\transition\\SceneLoader.cs",
+              "ToolTip": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\transition\\SceneLoader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\transition\\SceneLoader.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAMwCAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:14:35.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "physicsCheck.cs",
+              "DocumentMoniker": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\General\\physicsCheck.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\General\\physicsCheck.cs",
+              "ToolTip": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\General\\physicsCheck.cs",
+              "RelativeToolTip": "Assets\\Scripts\\General\\physicsCheck.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAuwGgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T06:42:43.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\player\\PlayerController.cs",
+              "ToolTip": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\player\\PlayerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T06:35:41.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TeleportPoint.cs",
+              "DocumentMoniker": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\transition\\TeleportPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\transition\\TeleportPoint.cs",
+              "ToolTip": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\transition\\TeleportPoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\transition\\TeleportPoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:02:03.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Sign.cs",
+              "DocumentMoniker": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\player\\Sign.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\player\\Sign.cs",
+              "ToolTip": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\player\\Sign.cs",
+              "RelativeToolTip": "Assets\\Scripts\\player\\Sign.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAnwEIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:01:19.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ToolTip": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAA3wF4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T03:49:41.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SceneLoadEventSO.cs",
+              "DocumentMoniker": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\ScriptableObject\\SceneLoadEventSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObject\\SceneLoadEventSO.cs",
+              "ToolTip": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\ScriptableObject\\SceneLoadEventSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObject\\SceneLoadEventSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T07:33:59.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\Audio\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Audio\\AudioManager.cs",
+              "ToolTip": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\Audio\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Audio\\AudioManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T06:22:43.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\UI\\Menu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Menu.cs",
+              "ToolTip": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\UI\\Menu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:32:01.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AudioDefination.cs",
+              "DocumentMoniker": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\Audio\\AudioDefination.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Audio\\AudioDefination.cs",
+              "ToolTip": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\Audio\\AudioDefination.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Audio\\AudioDefination.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T06:20:15.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "inital Load.cs",
+              "DocumentMoniker": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\transition\\inital Load.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\transition\\inital Load.cs",
+              "ToolTip": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\transition\\inital Load.cs",
+              "RelativeToolTip": "Assets\\Scripts\\transition\\inital Load.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:54:56.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\Utillities\\Enums.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utillities\\Enums.cs",
+              "ToolTip": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\Utillities\\Enums.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utillities\\Enums.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:32:09.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FloatEventSO.cs",
+              "DocumentMoniker": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\ScriptableObject\\FloatEventSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObject\\FloatEventSO.cs",
+              "ToolTip": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\ScriptableObject\\FloatEventSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObject\\FloatEventSO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:21:47.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TeleportManager.cs",
+              "DocumentMoniker": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\transition\\TeleportManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\transition\\TeleportManager.cs",
+              "ToolTip": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\transition\\TeleportManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\transition\\TeleportManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T14:27:54.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FadeCanvas.cs",
+              "DocumentMoniker": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\UI\\FadeCanvas.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\FadeCanvas.cs",
+              "ToolTip": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\UI\\FadeCanvas.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\FadeCanvas.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvxQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T07:21:13.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PlayerStatBar.cs",
+              "DocumentMoniker": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\UI\\PlayerStatBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PlayerStatBar.cs",
+              "ToolTip": "D:\\unity\u5DE5\u7A0B\\challenge\\Assets\\Scripts\\UI\\PlayerStatBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PlayerStatBar.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAwC8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T03:55:09.384Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
